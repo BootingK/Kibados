@@ -1,0 +1,7 @@
+name: CanhaoTNT
+main: me.canhaotnt.Main
+authors: [AlexDec]
+version: 1.1
+commands:
+   givetnt:
+     description: Da uma tnt canhao para um player
